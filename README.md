@@ -24,15 +24,12 @@ I don't have any Demo but you should write here like [this](http://qiita.com/tak
 
 ## VS. 
 
+I have no "VS" because this is just test.
 
 ## Requirement
 
- If I need to use some tools or some libraries, I should write this in here.
- 
- E.G.
- "You need to iOS version 10.3.2."
- "You need to download Swift3.0."
- etc....
+Xcode 8.3.2
+Swift 3.1
  
 ## Usage
 
