@@ -1,11 +1,22 @@
-# testforreadme
+# TimeMaker
 
-testforreadme is for me to write REAME.md file.
+TimeMaker is the test program for me to practice programming.
 
 ## Description
 
-This README.md origin sample is based on [this website](http://deeeet.com/writing/2014/07/31/readme/)
-So, if you don't have a framework for README.md, you may refer this or I recommend you to serch something good framwork for you.
+This is test program for me.
+I wrote this with swift.
+
+Using the data
+1. ---.jpg
+2. ---.jpg
+3. 
+
+Using,
+Framework : 
+
+Also,
+
 
 ## Demo
 
@@ -13,13 +24,6 @@ I don't have any Demo but you should write here like [this](http://qiita.com/tak
 
 ## VS. 
 
-Here is some differences of origin example.
-I will write here the differences with itemization.
-Here is the sample.
-
-1. testtesttest
-2. testtesttest
-3. testtesttest
 
 ## Requirement
 
