@@ -33,7 +33,9 @@ Swift 3.1
  
 ## Usage
 
-Write here how to use.
+Just Nomal Clock.
+
+
 
 E.G.
 (If command, write command here.)
