@@ -30,23 +30,20 @@ I have no "VS" because this is just test.
 
 Xcode 8.3.2
 Swift 3.1
+iOS 10.3.2.(Swift 3.1 support iOS version)
  
 ## Usage
 
-Just Nomal Clock.
+Just A Nomal Clock.
 
-
-
-E.G.
-(If command, write command here.)
-
-[This URL](https://github.com/motemen/ghq) gives some inspirations about Usage.
+You can use as a clock, alarm of course timer.
 
 ## Install
 
 Write how to install.
 
-If you can install via Terminal, [this URL](https://github.com/expressjs/express) will be good.
+*Maybe, this app will be installed by App Store.
+*Or maybe, (because this is just test ver,)only upload xCode file.(if so, DL from the right button.)
 
 
 ## Contribution
