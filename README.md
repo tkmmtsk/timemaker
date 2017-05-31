@@ -56,7 +56,7 @@ Write how to install.
 
 ## Licence
 
-Write here about licence.
+Takuma Matsuoka
 
 ## Author
 
